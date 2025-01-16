@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/arjunrajkumar/Documents/GitHub/Math Animations/env"
+VIRTUAL_ENV="/Users/arjunrajkumar/Documents/GitHub/Math-Animations/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

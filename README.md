@@ -7,6 +7,10 @@ Syllabus:
 - Statistics
 - Data Science 
 
+To activate virtual environment:
+`python3.11 -m venv env`
+`source env/bin/activate`
+
 ##### References
 - Manim Community - https://www.manim.community
 - 3Blue1Brown - https://www.youtube.com/c/3blue1brown?themeRefresh=1
