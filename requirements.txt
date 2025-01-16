@@ -1,0 +1,7 @@
+py3cairo
+ffmpeg
+
+# Apple Silicon - 
+pango
+pkg-config
+scipy
